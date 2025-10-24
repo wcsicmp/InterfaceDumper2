@@ -1,0 +1,1 @@
+Improved version of Interface Dumper. This method should work all the time with the sole disadvantage being its dependency on the existing interface structure and the specific function used to create the interface.
